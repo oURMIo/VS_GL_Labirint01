@@ -1,0 +1,7 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+  glut1.cpp
+E:\Progremir_2017-1018_C++\laberint\glut1.cpp(95,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+glut1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  glut1.vcxproj -> E:\Progremir_2017-1018_C++\laberint\Debug\glut1.exe
